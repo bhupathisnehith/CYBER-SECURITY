@@ -99,3 +99,17 @@ def main():
 if __name__ == "__main__":
     main()
 # to excute the code to monitor: monitor_directory
+
+
+
+*OUTPUT*
+#OUTPUT
+
+[choose file] No file chosen                      [Cancel upload]
+security.pdf(application/pdf) - 528809 bytes, last modified: 5/3/2025 - 100% done
+Saving security.pdf to security.pdf
+=== File Integrity Monitor===
+
+Enter the directory to monitor: monitor_directory
+Choose mode: [s]ave hashes / [c]check integrity: s
+[+] Hashes saved to: monitor_directory/.file_hashes.json
