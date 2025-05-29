@@ -10,7 +10,7 @@
 
 *DURATION*: 8 WEEKS
 
-*MENTOR NAME*: 
+*MENTOR NAME*: NEELA SONTOSH
 
 *DISCRIPITION*: 
 A File Integrity Checker is an essential tool that keeps an eye on files, spotting any unauthorized or unexpected changes by calculating and comparing their cryptographic hash values. This tool is commonly used in fields like cybersecurity, system administration, and software development to maintain the reliability, authenticity, and security of important files and data. By utilizing robust cryptographic hash functions like SHA-256 or MD5 (with a strong preference for SHA-256 due to its enhanced security), the checker can identify whether a file has been modified, whether intentionally or maliciously
